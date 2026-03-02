@@ -164,7 +164,7 @@ load_payload docker_breakout.py # Load container breakout
 ### **Clone Repository**
 
 ```bash
-git clone https://github.com/RobotEby/arachneC2.git
+git clone https://github.com/RobotEby/Arachne.git
 cd arachne
 ```
 
