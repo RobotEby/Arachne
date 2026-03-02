@@ -2,7 +2,7 @@
 
 ![MrRobot Banner](https://img.shields.io/badge/MrRobot-certified_ethcial_hacker-blue)
 
-![Arachne Banner](image.png)
+![Arachne Banner](assets/image.png)
 
 **ARACHNE** v3.2 is a comprehensive encrypted command-and-control framework designed for authorized penetration testing, red team operations, and incident response training. Featuring AES-256 encryption, web-based administration, cloud-awareness, and an extensive payload arsenal, ARACHNE provides professional-grade capabilities for security testing.
 
@@ -1234,6 +1234,6 @@ _Last Updated: v3.2 | For authorized security testing only_
 
 ---
 
-![arachne](image-1.png)
+![arachne](assets/image-1.png)
 
-![RobotEby](image-2.png)
+![RobotEby](assets/image-2.png)
